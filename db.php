@@ -6,3 +6,6 @@ $db="news_website";
 
 $conn=mysqli_connect($host,$user,$pass,$db);
 ?>
+
+
+<!-- hello world -->
